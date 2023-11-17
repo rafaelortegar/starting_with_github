@@ -2,6 +2,7 @@
 ## ¿Para que sirve?
 La idea es que puedas desarrollar código sin afectar directamente a la rama de main, hasta que estés seguro de hacer merge de tus cambios:
 ![image](https://github.com/rafaelortegar/starting_with_github/assets/51694410/5759a019-b3c4-43ed-9d44-76dcb42532d0) bla bla modificacion
+holamundo
 
 
 ## ¿Cómo se hace?
