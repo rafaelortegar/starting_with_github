@@ -27,11 +27,19 @@ git push
 En el caso de que quieras modificar el mensaje del último commit o el ultimo commit, deberás correr el siguiente comando:
 ```bash
 git commit --amend
+git push --force repository-name branch-name
 ```
 
 Si quieres modificar el commit sin modificar el mensaje:
 ```bash
 git commit --amend --no-edit
+git push --force repository-name branch-name
+```
+
+Si quieres cambiar n commits hacia atras:
+```bash
+git rebase -i HEAD~n 
+git push --force repository-name branch-name
 ```
 
 
