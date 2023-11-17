@@ -29,5 +29,10 @@ En el caso de que quieras modificar el mensaje del último commit o el ultimo co
 git commit --amend
 ```
 
+Si quieres modificar el commit sin modificar el mensaje:
+```bash
+git commit --amend --no-edit
+```
+
 
 
