@@ -48,4 +48,13 @@ git switch <branch name>
 git branch
 ```
 
+# Pushing
+
+* Subir los cambios en la rama local a la rama remota:
+```bash
+git push --set-upstream origin <branch name>
+```
+
+
+
 
