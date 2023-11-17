@@ -1,2 +1,5 @@
 Manejo de ramas:
-* Conocer la rama actual:  ´git branch´
+* Conocer la rama actual:
+´´´bash
+git branch
+´´´
