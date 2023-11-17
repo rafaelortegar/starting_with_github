@@ -6,7 +6,7 @@ Permite el almacenamiento y versionado de código.
 
 * Temas clave:
   * Git clone
-  * Branching
+  * [Branching](https://github.com/rafaelortegar/starting_with_github/blob/main/topics/branching.md)
   * Commit
   * Pull request
   * Rebasing
